@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Analysis;SQL,Tableau,PowerBI,Python
 - 💞️ I’m looking to collaborate on Projects;Industries, Establishments
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/oluchukwu-salome-ekwunife-223a66159/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she
+- ⚡ Fun fact: Exploring new things
 
 <!---
 EkwunifeOluchiSalome/EkwunifeOluchiSalome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
